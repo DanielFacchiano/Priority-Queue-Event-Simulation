@@ -1,0 +1,556 @@
+Welcome to the Bar Simulation, how many seats would you like to simulate?
+100
+Group of: 5 customers arrive at time 5
+Group is seated with 95 open seats remaining
+Group of: 3 customers arrive at time 8
+Group is seated with 92 open seats remaining
+Group of: 3 customers arrive at time 10
+Group is seated with 89 open seats remaining
+Serviced order for beer type 3 at time 11
+Serviced order for beer type 2 at time 11
+Serviced order for beer type 4 at time 11
+Serviced order for beer type 3 at time 13
+Serviced order for beer type 3 at time 13
+Serviced order for beer type 2 at time 13
+Serviced order for beer type 3 at time 13
+Serviced order for beer type 2 at time 13
+Group of: 1 customers arrive at time 15
+Group is seated with 88 open seats remaining
+Serviced order for beer type 4 at time 17
+Serviced order for beer type 3 at time 17
+Serviced order for beer type 4 at time 17
+Group of: 2 customers arrive at time 18
+Group is seated with 86 open seats remaining
+Serviced order for beer type 3 at time 22
+Group of: 3 customers arrive at time 23
+Group is seated with 83 open seats remaining
+Serviced order for beer type 3 at time 26
+Serviced order for beer type 2 at time 26
+Group of: 4 customers arrive at time 26
+Group is seated with 79 open seats remaining
+Serviced order for beer type 3 at time 29
+Serviced order for beer type 3 at time 29
+Serviced order for beer type 3 at time 29
+Serviced order for beer type 4 at time 29
+Serviced order for beer type 4 at time 29
+Serviced order for beer type 3 at time 29
+Serviced order for beer type 3 at time 29
+Group of: 5 customers arrive at time 31
+Group is seated with 74 open seats remaining
+Group of: 4 customers arrive at time 34
+Group is seated with 70 open seats remaining
+Group of: 1 customers arrive at time 37
+Group is seated with 69 open seats remaining
+Serviced order for beer type 3 at time 37
+Serviced order for beer type 4 at time 37
+Serviced order for beer type 2 at time 37
+Serviced order for beer type 3 at time 37
+Serviced order for beer type 3 at time 37
+Group of: 1 customers arrive at time 40
+Group is seated with 68 open seats remaining
+Serviced order for beer type 3 at time 41
+Serviced order for beer type 3 at time 41
+Serviced order for beer type 3 at time 41
+Serviced order for beer type 3 at time 41
+Serviced order for beer type 3 at time 44
+Group of: 3 customers arrive at time 45
+Group is seated with 65 open seats remaining
+Group of: 5 customers leave at time 45 70 seats now open
+Serviced order for beer type 3 at time 47
+Serviced order for beer type 3 at time 48
+Serviced order for beer type 3 at time 48
+Serviced order for beer type 3 at time 48
+Group of: 1 customers arrive at time 49
+Group is seated with 69 open seats remaining
+Group of: 2 customers arrive at time 54
+Group is seated with 67 open seats remaining
+Serviced order for beer type 4 at time 56
+Serviced order for beer type 3 at time 56
+Serviced order for beer type 3 at time 56
+Group of: 3 customers arrive at time 56
+Group is seated with 64 open seats remaining
+Group of: 3 customers arrive at time 58
+Group is seated with 61 open seats remaining
+Group of: 2 customers leave at time 58 63 seats now open
+Serviced order for beer type 3 at time 60
+Serviced order for beer type 3 at time 60
+Serviced order for beer type 3 at time 60
+Group of: 1 customers arrive at time 60
+Group is seated with 62 open seats remaining
+group of 3 has decided to stay for another round at 61
+Serviced order for beer type 4 at time 61
+Serviced order for beer type 3 at time 61
+Serviced order for beer type 4 at time 61
+Group of: 1 customers arrive at time 62
+Group is seated with 61 open seats remaining
+group of 3 has decided to stay for another round at 63
+Serviced order for beer type 4 at time 63
+Serviced order for beer type 3 at time 63
+Serviced order for beer type 3 at time 63
+Serviced order for beer type 3 at time 64
+Serviced order for beer type 3 at time 64
+Serviced order for beer type 3 at time 64
+Group of: 1 customers arrive at time 64
+Group is seated with 60 open seats remaining
+Serviced order for beer type 2 at time 65
+Serviced order for beer type 3 at time 66
+Serviced order for beer type 3 at time 67
+Group of: 2 customers arrive at time 67
+Group is seated with 58 open seats remaining
+Serviced order for beer type 3 at time 69
+Serviced order for beer type 3 at time 69
+Group of: 2 customers arrive at time 70
+Group is seated with 56 open seats remaining
+Group of: 1 customers leave at time 70 57 seats now open
+Group of: 4 customers arrive at time 73
+Group is seated with 53 open seats remaining
+Serviced order for beer type 4 at time 75
+Serviced order for beer type 4 at time 75
+Group of: 1 customers leave at time 75 54 seats now open
+Serviced order for beer type 3 at time 77
+Serviced order for beer type 3 at time 77
+Serviced order for beer type 2 at time 77
+Serviced order for beer type 2 at time 77
+group of 3 has decided to stay for another round at 78
+Serviced order for beer type 2 at time 78
+Serviced order for beer type 3 at time 78
+Serviced order for beer type 3 at time 78
+Group of: 3 customers arrive at time 78
+Group is seated with 51 open seats remaining
+Serviced order for beer type 2 at time 81
+Serviced order for beer type 4 at time 81
+Serviced order for beer type 3 at time 81
+Group of: 5 customers leave at time 81 56 seats now open
+Group of: 4 customers arrive at time 83
+Group is seated with 52 open seats remaining
+group of 4 has decided to stay for another round at 84
+Serviced order for beer type 4 at time 84
+Serviced order for beer type 3 at time 84
+Serviced order for beer type 2 at time 84
+Serviced order for beer type 3 at time 84
+group of 4 has decided to stay for another round at 84
+Serviced order for beer type 3 at time 84
+Serviced order for beer type 4 at time 84
+Serviced order for beer type 3 at time 84
+Serviced order for beer type 3 at time 84
+Serviced order for beer type 3 at time 87
+Serviced order for beer type 3 at time 87
+Serviced order for beer type 3 at time 87
+Serviced order for beer type 4 at time 87
+Group of: 5 customers arrive at time 88
+Group is seated with 47 open seats remaining
+Serviced order for beer type 3 at time 90
+Serviced order for beer type 3 at time 90
+Serviced order for beer type 3 at time 90
+Serviced order for beer type 2 at time 90
+Serviced order for beer type 4 at time 90
+group of 1 has decided to stay for another round at 93
+Serviced order for beer type 3 at time 93
+Group of: 3 customers arrive at time 93
+Group is seated with 44 open seats remaining
+group of 3 has decided to stay for another round at 95
+Serviced order for beer type 2 at time 95
+Serviced order for beer type 3 at time 95
+Serviced order for beer type 3 at time 95
+Group of: 1 customers leave at time 95 45 seats now open
+Serviced order for beer type 2 at time 96
+Serviced order for beer type 2 at time 96
+Serviced order for beer type 3 at time 96
+Group of: 3 customers leave at time 97 48 seats now open
+Group of: 2 customers arrive at time 98
+Group is seated with 46 open seats remaining
+Group of: 4 customers arrive at time 101
+Group is seated with 42 open seats remaining
+group of 1 has decided to stay for another round at 104
+Serviced order for beer type 3 at time 104
+Serviced order for beer type 2 at time 104
+Serviced order for beer type 4 at time 104
+group of 2 has decided to stay for another round at 106
+Serviced order for beer type 3 at time 106
+Serviced order for beer type 3 at time 106
+group of 1 has decided to stay for another round at 106
+Serviced order for beer type 4 at time 106
+Group of: 4 customers arrive at time 106
+Group is seated with 38 open seats remaining
+Group of: 2 customers arrive at time 108
+Group is seated with 36 open seats remaining
+Group of: 3 customers leave at time 108 39 seats now open
+Group of: 3 customers leave at time 108 42 seats now open
+Group of: 3 customers leave at time 109 45 seats now open
+Group of: 4 customers arrive at time 110
+Group is seated with 41 open seats remaining
+Serviced order for beer type 2 at time 110
+Serviced order for beer type 4 at time 110
+Serviced order for beer type 2 at time 110
+Serviced order for beer type 3 at time 110
+Serviced order for beer type 3 at time 110
+Serviced order for beer type 4 at time 110
+group of 1 has decided to stay for another round at 113
+Serviced order for beer type 3 at time 113
+Group of: 4 customers arrive at time 114
+Group is seated with 37 open seats remaining
+group of 3 has decided to stay for another round at 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 2 at time 115
+group of 3 has decided to stay for another round at 115
+Serviced order for beer type 2 at time 115
+Serviced order for beer type 2 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 4 at time 115
+Serviced order for beer type 4 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 2 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 3 at time 115
+Serviced order for beer type 3 at time 115
+Group of: 2 customers arrive at time 118
+Group is seated with 35 open seats remaining
+Group of: 2 customers arrive at time 120
+Group is seated with 33 open seats remaining
+Serviced order for beer type 3 at time 120
+Serviced order for beer type 3 at time 120
+group of 2 has decided to stay for another round at 121
+Serviced order for beer type 3 at time 121
+Serviced order for beer type 4 at time 121
+Serviced order for beer type 2 at time 122
+Serviced order for beer type 3 at time 122
+Serviced order for beer type 4 at time 122
+Serviced order for beer type 4 at time 122
+Group of: 4 customers arrive at time 125
+Group is seated with 29 open seats remaining
+Serviced order for beer type 3 at time 125
+Serviced order for beer type 3 at time 125
+Group of: 2 customers leave at time 126 31 seats now open
+Group of: 3 customers leave at time 126 34 seats now open
+Group of: 1 customers arrive at time 127
+Group is seated with 33 open seats remaining
+group of 5 has decided to stay for another round at 129
+Serviced order for beer type 3 at time 129
+Serviced order for beer type 3 at time 129
+Serviced order for beer type 3 at time 129
+Serviced order for beer type 3 at time 129
+Serviced order for beer type 2 at time 129
+Group of: 1 customers arrive at time 132
+Group is seated with 32 open seats remaining
+Serviced order for beer type 3 at time 132
+Group of: 1 customers leave at time 132 33 seats now open
+group of 3 has decided to stay for another round at 133
+Serviced order for beer type 3 at time 133
+Serviced order for beer type 3 at time 133
+Serviced order for beer type 4 at time 133
+Serviced order for beer type 4 at time 133
+Serviced order for beer type 3 at time 133
+Serviced order for beer type 3 at time 133
+Serviced order for beer type 3 at time 133
+Group of: 4 customers arrive at time 134
+Group is seated with 29 open seats remaining
+Group of: 4 customers leave at time 136 33 seats now open
+Group of: 4 customers leave at time 136 37 seats now open
+group of 4 has decided to stay for another round at 137
+Serviced order for beer type 2 at time 137
+Serviced order for beer type 3 at time 137
+Serviced order for beer type 2 at time 137
+Serviced order for beer type 3 at time 137
+Group of: 5 customers arrive at time 138
+Group is seated with 32 open seats remaining
+Serviced order for beer type 3 at time 138
+Serviced order for beer type 4 at time 139
+Serviced order for beer type 2 at time 139
+Serviced order for beer type 2 at time 139
+Serviced order for beer type 3 at time 139
+group of 2 has decided to stay for another round at 140
+Serviced order for beer type 2 at time 140
+Serviced order for beer type 3 at time 140
+Group of: 5 customers arrive at time 140
+Group is seated with 27 open seats remaining
+Group of: 4 customers leave at time 140 31 seats now open
+Serviced order for beer type 3 at time 142
+Serviced order for beer type 3 at time 142
+Serviced order for beer type 3 at time 142
+Serviced order for beer type 2 at time 142
+Serviced order for beer type 3 at time 142
+Group of: 3 customers arrive at time 144
+Group is seated with 28 open seats remaining
+Group of: 2 customers leave at time 145 30 seats now open
+Serviced order for beer type 3 at time 146
+Serviced order for beer type 3 at time 146
+Serviced order for beer type 3 at time 146
+Serviced order for beer type 4 at time 146
+Serviced order for beer type 3 at time 146
+Group of: 1 customers leave at time 147 31 seats now open
+Group of: 4 customers arrive at time 148
+Group is seated with 27 open seats remaining
+Group of: 1 customers leave at time 148 28 seats now open
+Group of: 3 customers leave at time 150 31 seats now open
+group of 4 has decided to stay for another round at 151
+Serviced order for beer type 2 at time 151
+Serviced order for beer type 3 at time 151
+Serviced order for beer type 4 at time 151
+Serviced order for beer type 4 at time 151
+Group of: 2 customers arrive at time 153
+Group is seated with 29 open seats remaining
+Serviced order for beer type 4 at time 153
+Serviced order for beer type 4 at time 153
+Serviced order for beer type 4 at time 153
+Group of: 4 customers leave at time 155 33 seats now open
+group of 1 has decided to stay for another round at 156
+Serviced order for beer type 4 at time 156
+group of 2 has decided to stay for another round at 156
+Serviced order for beer type 3 at time 156
+Serviced order for beer type 4 at time 156
+Serviced order for beer type 3 at time 157
+Serviced order for beer type 4 at time 157
+Serviced order for beer type 4 at time 157
+Serviced order for beer type 3 at time 157
+Group of: 5 customers arrive at time 158
+Group is seated with 28 open seats remaining
+group of 2 has decided to stay for another round at 158
+Serviced order for beer type 3 at time 158
+Serviced order for beer type 4 at time 158
+Group of: 4 customers arrive at time 160
+Group is seated with 24 open seats remaining
+Serviced order for beer type 3 at time 160
+Serviced order for beer type 3 at time 160
+Serviced order for beer type 3 at time 160
+Serviced order for beer type 2 at time 160
+Serviced order for beer type 3 at time 160
+Serviced order for beer type 3 at time 162
+Serviced order for beer type 3 at time 162
+Group of: 1 customers arrive at time 164
+Group is seated with 23 open seats remaining
+Group of: 3 customers leave at time 166 26 seats now open
+Group of: 2 customers leave at time 166 28 seats now open
+Group of: 1 customers arrive at time 168
+Group is seated with 27 open seats remaining
+Serviced order for beer type 3 at time 169
+Serviced order for beer type 2 at time 169
+Serviced order for beer type 2 at time 169
+Serviced order for beer type 3 at time 169
+group of 2 has decided to stay for another round at 172
+Serviced order for beer type 3 at time 172
+Serviced order for beer type 4 at time 172
+Group of: 1 customers arrive at time 173
+Group is seated with 26 open seats remaining
+Serviced order for beer type 3 at time 173
+Group of: 3 customers leave at time 173 29 seats now open
+Group of: 1 customers leave at time 174 30 seats now open
+Group of: 4 customers leave at time 174 34 seats now open
+Group of: 4 customers leave at time 175 38 seats now open
+Group of: 2 customers arrive at time 176
+Group is seated with 36 open seats remaining
+Group of: 4 customers leave at time 176 40 seats now open
+Serviced order for beer type 3 at time 177
+Serviced order for beer type 4 at time 178
+Group of: 4 customers leave at time 178 44 seats now open
+Serviced order for beer type 3 at time 179
+Serviced order for beer type 4 at time 179
+Group of: 2 customers arrive at time 181
+Group is seated with 42 open seats remaining
+Group of: 2 customers arrive at time 183
+Group is seated with 40 open seats remaining
+group of 5 has decided to stay for another round at 185
+Serviced order for beer type 3 at time 185
+Serviced order for beer type 3 at time 185
+Serviced order for beer type 2 at time 185
+Serviced order for beer type 3 at time 185
+Serviced order for beer type 3 at time 185
+Group of: 2 customers arrive at time 185
+Group is seated with 38 open seats remaining
+Group of: 4 customers arrive at time 187
+Group is seated with 34 open seats remaining
+Group of: 5 customers leave at time 187 39 seats now open
+Serviced order for beer type 3 at time 188
+Serviced order for beer type 3 at time 188
+Serviced order for beer type 4 at time 189
+Serviced order for beer type 3 at time 189
+Group of: 3 customers arrive at time 189
+Group is seated with 36 open seats remaining
+Group of: 4 customers leave at time 190 40 seats now open
+Group of: 5 customers arrive at time 191
+Group is seated with 35 open seats remaining
+Serviced order for beer type 4 at time 191
+Serviced order for beer type 3 at time 191
+Serviced order for beer type 3 at time 191
+Serviced order for beer type 3 at time 191
+Group of: 2 customers leave at time 192 37 seats now open
+Group of: 4 customers arrive at time 194
+Group is seated with 33 open seats remaining
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 4 at time 195
+Serviced order for beer type 4 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 195
+Serviced order for beer type 3 at time 196
+Serviced order for beer type 4 at time 196
+Serviced order for beer type 2 at time 196
+Serviced order for beer type 3 at time 196
+group of 1 has decided to stay for another round at 197
+Serviced order for beer type 2 at time 197
+Group of: 1 customers leave at time 198 34 seats now open
+Group of: 2 customers arrive at time 199
+Group is seated with 32 open seats remaining
+Group of: 5 customers leave at time 199 37 seats now open
+Group of: 4 customers leave at time 200 41 seats now open
+Group of: 2 customers leave at time 201 43 seats now open
+Group of: 2 customers arrive at time 204
+Group is seated with 41 open seats remaining
+Serviced order for beer type 3 at time 205
+Serviced order for beer type 4 at time 205
+Group of: 2 customers leave at time 206 43 seats now open
+group of 5 has decided to stay for another round at 208
+Serviced order for beer type 4 at time 208
+Serviced order for beer type 3 at time 208
+Serviced order for beer type 4 at time 208
+Serviced order for beer type 2 at time 208
+Serviced order for beer type 3 at time 208
+Group of: 3 customers leave at time 208 46 seats now open
+Group of: 4 customers leave at time 208 50 seats now open
+Group of: 2 customers arrive at time 209
+Group is seated with 48 open seats remaining
+Group of: 1 customers leave at time 210 49 seats now open
+Group of: 2 customers leave at time 210 51 seats now open
+group of 1 has decided to stay for another round at 211
+Serviced order for beer type 3 at time 211
+Serviced order for beer type 3 at time 211
+Serviced order for beer type 3 at time 211
+Group of: 1 customers leave at time 211 52 seats now open
+Group of: 4 customers arrive at time 212
+Group is seated with 48 open seats remaining
+Serviced order for beer type 2 at time 214
+Serviced order for beer type 3 at time 214
+Group of: 2 customers arrive at time 214
+Group is seated with 46 open seats remaining
+Serviced order for beer type 4 at time 216
+Serviced order for beer type 4 at time 216
+Serviced order for beer type 2 at time 216
+Serviced order for beer type 3 at time 216
+Serviced order for beer type 4 at time 217
+Serviced order for beer type 3 at time 217
+Group of: 3 customers arrive at time 218
+Group is seated with 43 open seats remaining
+group of 2 has decided to stay for another round at 219
+Serviced order for beer type 3 at time 219
+Serviced order for beer type 3 at time 219
+Group of: 2 customers arrive at time 222
+Group is seated with 41 open seats remaining
+Serviced order for beer type 2 at time 222
+Serviced order for beer type 2 at time 222
+Serviced order for beer type 4 at time 222
+Group of: 5 customers leave at time 222 46 seats now open
+Group of: 5 customers leave at time 225 51 seats now open
+Group of: 3 customers arrive at time 226
+Group is seated with 48 open seats remaining
+Serviced order for beer type 3 at time 227
+Serviced order for beer type 3 at time 227
+Group of: 4 customers leave at time 228 52 seats now open
+Group of: 5 customers arrive at time 230
+Group is seated with 47 open seats remaining
+Group of: 2 customers leave at time 231 49 seats now open
+Group of: 2 customers arrive at time 232
+Group is seated with 47 open seats remaining
+Group of: 2 customers leave at time 232 49 seats now open
+Serviced order for beer type 4 at time 233
+Serviced order for beer type 3 at time 233
+Serviced order for beer type 2 at time 233
+Serviced order for beer type 4 at time 233
+Serviced order for beer type 3 at time 233
+Serviced order for beer type 3 at time 233
+Serviced order for beer type 3 at time 233
+Serviced order for beer type 3 at time 233
+Group of: 2 customers arrive at time 234
+Group is seated with 47 open seats remaining
+group of 2 has decided to stay for another round at 238
+Serviced order for beer type 3 at time 238
+Serviced order for beer type 3 at time 238
+Serviced order for beer type 4 at time 238
+Serviced order for beer type 2 at time 238
+Group of: 3 customers arrive at time 239
+Group is seated with 44 open seats remaining
+Group of: 1 customers leave at time 239 45 seats now open
+group of 2 has decided to stay for another round at 240
+Serviced order for beer type 4 at time 240
+Serviced order for beer type 2 at time 240
+Group of: 4 customers leave at time 240 49 seats now open
+Serviced order for beer type 3 at time 242
+Serviced order for beer type 3 at time 242
+Group of: 1 customers arrive at time 244
+Group is seated with 48 open seats remaining
+Serviced order for beer type 2 at time 245
+Serviced order for beer type 2 at time 245
+Serviced order for beer type 2 at time 245
+Serviced order for beer type 4 at time 247
+Group of: 3 customers leave at time 248 51 seats now open
+group of 4 has decided to stay for another round at 251
+Serviced order for beer type 3 at time 251
+Serviced order for beer type 3 at time 251
+Serviced order for beer type 2 at time 251
+Serviced order for beer type 3 at time 251
+Group of: 2 customers leave at time 252 53 seats now open
+group of 3 has decided to stay for another round at 253
+Serviced order for beer type 3 at time 253
+Serviced order for beer type 3 at time 253
+Serviced order for beer type 3 at time 253
+Group of: 4 customers leave at time 254 57 seats now open
+Group of: 2 customers leave at time 255 59 seats now open
+Group of: 5 customers leave at time 257 64 seats now open
+Group of: 2 customers leave at time 258 66 seats now open
+Group of: 2 customers leave at time 260 68 seats now open
+group of 2 has decided to stay for another round at 261
+Serviced order for beer type 4 at time 261
+Serviced order for beer type 3 at time 261
+Group of: 1 customers leave at time 266 69 seats now open
+group of 5 has decided to stay for another round at 272
+Serviced order for beer type 3 at time 272
+Serviced order for beer type 2 at time 272
+Serviced order for beer type 3 at time 272
+Serviced order for beer type 3 at time 272
+Serviced order for beer type 3 at time 272
+group of 2 has decided to stay for another round at 275
+Serviced order for beer type 3 at time 275
+Serviced order for beer type 2 at time 275
+group of 4 has decided to stay for another round at 281
+Serviced order for beer type 4 at time 281
+Serviced order for beer type 4 at time 281
+Serviced order for beer type 4 at time 281
+Serviced order for beer type 4 at time 281
+Group of: 1 customers leave at time 282 70 seats now open
+Group of: 2 customers leave at time 284 72 seats now open
+Group of: 2 customers leave at time 285 74 seats now open
+group of 3 has decided to stay for another round at 286
+Serviced order for beer type 4 at time 286
+Serviced order for beer type 3 at time 286
+Serviced order for beer type 3 at time 286
+group of 2 has decided to stay for another round at 286
+Serviced order for beer type 3 at time 286
+Serviced order for beer type 2 at time 286
+group of 3 has decided to stay for another round at 286
+Serviced order for beer type 3 at time 286
+Serviced order for beer type 3 at time 286
+Serviced order for beer type 3 at time 286
+Group of: 3 customers leave at time 292 77 seats now open
+group of 2 has decided to stay for another round at 293
+Serviced order for beer type 3 at time 293
+Serviced order for beer type 3 at time 293
+Group of: 2 customers leave at time 307 79 seats now open
+Group of: 2 customers leave at time 321 81 seats now open
+group of 5 has decided to stay for another round at 323
+Serviced order for beer type 3 at time 323
+Serviced order for beer type 4 at time 323
+Serviced order for beer type 3 at time 323
+Serviced order for beer type 4 at time 323
+Serviced order for beer type 3 at time 323
+Group of: 3 customers leave at time 328 84 seats now open
+Group of: 2 customers leave at time 330 86 seats now open
+Group of: 4 customers leave at time 340 90 seats now open
+Group of: 2 customers leave at time 340 92 seats now open
+Group of: 3 customers leave at time 343 95 seats now open
+Group of: 5 customers leave at time 378 100 seats now open
+Total Profits: $928.0
+
